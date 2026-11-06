@@ -4,7 +4,7 @@ A real-time strategy game for Windows: capture and hold flags, build a base and 
 
 ## Download
 
-**[AgeOfTritium-win64.zip](https://github.com/Farina81/aot-download/releases/download/v0.1.2/AgeOfTritium-win64.zip)** — Windows 10 or 11, 64-bit. About 790 MB to download, 1.1 GB unpacked.
+**[AgeOfTritium-win64.zip](https://github.com/Farina81/aot-download/releases/download/v0.1.3/AgeOfTritium-win64.zip)** — Windows 10 or 11, 64-bit. About 790 MB to download, 1.1 GB unpacked.
 
 Unpack it anywhere, open the `AgeOfTritium` folder and run `AgeOfTritium.exe`.
 
@@ -12,3 +12,4 @@ Unpack it anywhere, open the `AgeOfTritium` folder and run `AgeOfTritium.exe`.
 - **Online:** free, with an account at [ageoftritium.com](https://ageoftritium.com).
 
 [Support the game](https://app.ageoftritium.com/doar)
+
